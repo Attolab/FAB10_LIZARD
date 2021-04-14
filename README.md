@@ -3,10 +3,10 @@ Implementation of the LIZARD technique on FAB10 beamline
 
 ## Installation
 
-This was intended to be a pymodaq pid model. But as we started the development with the version 1.6.3 of pymodaq ([http://pymodaq.cnrs.fr/en/latest/index.html](url)) we fixed some bugs quite in a nasty way and commented some lines in the pymodaq repository, in particular in the pid_controller.py file (and made also modifications in the pymodaq_plugins repository). The good way would have been to to modify only the pymodaq_pid_models repository. This will be done in a later version.
+This was intended to be a pymodaq pid model. But as we started the development with the version 1.6.3 of pymodaq ([http://pymodaq.cnrs.fr/en/latest/index.html](http://pymodaq.cnrs.fr/en/latest/index.html)) we fixed some bugs quite in a nasty way and commented some lines in the pymodaq repository, in particular in the pid_controller.py file (and made also modifications in the pymodaq_plugins repository). The good way would have been to to modify only the pymodaq_pid_models repository. This will be done in a later version.
 So in this repository we include the pymodaq_pid_models repository but also pymodaq repository and the pymodaq plugins as they were when we tested the all feedback system.
 
-Probably the best way to install from scratch (we mainly follow the pymodaq installation procedure [http://pymodaq.cnrs.fr/en/latest/usage/Installation.html](url)):
+Probably the best way to install from scratch (we mainly follow the pymodaq installation procedure [http://pymodaq.cnrs.fr/en/latest/usage/Installation.html](http://pymodaq.cnrs.fr/en/latest/usage/Installation.html)):
 
 Install Miniconda or Anaconda and cd to the *condabin* folder.
 
@@ -38,8 +38,10 @@ Oscilloscope: Lecroy Waverunner 6Zi
 
 ## References
 
-[http://pymodaq.cnrs.fr/en/latest/index.html](url)
+[LIZARD paper](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.034036)
 
-[https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.034036](url)
+[LIZARD arxiv](https://arxiv.org/abs/2012.09528)
 
-[https://aip.scitation.org/doi/10.1063/5.0032116](url)
+[PyMoDAQ website](http://pymodaq.cnrs.fr/en/latest/index.html)
+
+[PyMoDAQ paper](https://aip.scitation.org/doi/10.1063/5.0032116)
