@@ -29,11 +29,16 @@ Copy paste in the *site-packages* folder of your environment the folders that ar
 ## System requirements
 
 Windows 10 (for now the used plugins are not compatible with Linux, but pymodaq should be)
+
 python 3.7
+
 pymodaq 1.6.3
+
 pymodaq plugins : daq_move_SmarActMCS and daq_1Dviewer_LecroyWaverunner6Zi
 
+
 Delay stage: Smaract SLC with S option (sensor module with nanometer precision is absolutely necessary) and MCS controller (MCS2 will probably not be compatible as it is)
+
 Oscilloscope: Lecroy Waverunner 6Zi
 
 ## References
