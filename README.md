@@ -39,5 +39,7 @@ Oscilloscope: Lecroy Waverunner 6Zi
 ## References
 
 [http://pymodaq.cnrs.fr/en/latest/index.html](url)
+
 [https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.034036](url)
+
 [https://aip.scitation.org/doi/10.1063/5.0032116](url)
