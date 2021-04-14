@@ -48,7 +48,7 @@ Oscilloscope: Lecroy Waverunner 6Zi
 
 [LIZARD paper](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.034036)
 
-[LIZARD arxiv](https://arxiv.org/abs/2012.09528)
+[LIZARD arxiv](https://arxiv.org/pdf/2012.09528.pdf)
 
 [PyMoDAQ website](http://pymodaq.cnrs.fr/en/latest/index.html)
 
