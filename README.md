@@ -25,6 +25,9 @@ Install pymodaq version 1.6.3 with pip
 
 Copy paste in the *site-packages* folder of your environment the folders that are contained in this repository.
 
+## Documentation
+
+See the [manual](https://github.com/Attolab/FAB10_LIZARD/blob/main/FAB10_lizard_user_manual.pdf) !
 
 ## System requirements
 
